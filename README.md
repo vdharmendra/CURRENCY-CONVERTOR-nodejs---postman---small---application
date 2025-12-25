@@ -1,6 +1,6 @@
 # CURRENCY CONVERTOR
 
-
+USE POSTMAN APPLICATION
 /**
  * GET /convert?from=USD&to=INR&amount=100
  */
